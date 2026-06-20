@@ -1,0 +1,28 @@
+{
+  "orders": [
+    {
+      "id": "KN-ORD-1781626565255-727",
+      "shortId": "KN-525525",
+      "meja": 3,
+      "nama": "fahmi",
+      "items": [
+        {
+          "id": 1,
+          "name": "Espresso",
+          "price": 25000,
+          "quantity": 1,
+          "customization": {
+            "manis": "Normal",
+            "suhu": "Dingin",
+            "ukuran": "Regular",
+            "catatan": ""
+          }
+        }
+      ],
+      "total": 25000,
+      "status": "Selesai",
+      "tanggal": "2026-06-16T16:16:05.256Z",
+      "pembayaran": "Selesai"
+    }
+  ]
+}
